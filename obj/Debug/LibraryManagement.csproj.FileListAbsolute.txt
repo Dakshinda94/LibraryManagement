@@ -1,0 +1,16 @@
+C:\Users\Dakshinda\source\repos\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Dakshinda\source\repos\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\Dakshinda\source\repos\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.Home.resources
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.Add.resources
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.Books.resources
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.Delete.resources
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.Update.resources
+C:\Users\Dakshinda\source\repos\LibraryManagement\obj\Debug\LibraryManagement.Home2.resources
